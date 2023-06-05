@@ -1,0 +1,1 @@
+import{_ as t,o,c as _,a as e}from"./app-829e99b5.js";const c={},s=e("p",null,"以Claude的al为基础，通过连接两个字母实现整体化，a字母的部分分为教程区，交流区，观赏区，露天部分；l字母部分则为房间布局",-1),l=e("p",null,"装修尽量科幻同时有点中式园林的元素",-1),n=[s,l];function a(m,r){return o(),_("div",null,n)}const i=t(c,[["render",a],["__file","emmm.html.vue"]]);export{i as default};
