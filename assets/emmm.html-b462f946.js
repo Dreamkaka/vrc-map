@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2be613b0","path":"/blogs/kaifalicheng/emmm.html","title":"初步构想","lang":"en-US","frontmatter":{"title":"初步构想","categories":["开发历程"]},"headers":[],"git":{},"filePathRelative":"blogs/开发历程/emmm.md"}');export{e as data};
