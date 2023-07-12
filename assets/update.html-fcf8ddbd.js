@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./app-015b8794.js";const _={},s=o("p",null,"地图已经进入最后贴图阶段了，估计这个月能出吧",-1),a=[s];function n(r,l){return t(),c("div",null,a)}const u=e(_,[["render",n],["__file","update.html.vue"]]);export{u as default};
